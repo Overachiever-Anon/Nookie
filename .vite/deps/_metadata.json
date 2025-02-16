@@ -1,0 +1,235 @@
+{
+  "hash": "5c4cda6a",
+  "configHash": "51c681a0",
+  "lockfileHash": "c0758c88",
+  "browserHash": "0da44cf1",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "284d4018",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "50906e4c",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c88a8229",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "85252c86",
+      "needsInterop": false
+    },
+    "@mui/material/styles": {
+      "src": "../../node_modules/@mui/material/styles/index.js",
+      "file": "@mui_material_styles.js",
+      "fileHash": "4f1a8442",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Pets": {
+      "src": "../../node_modules/@mui/icons-material/esm/Pets.js",
+      "file": "@mui_icons-material_Pets.js",
+      "fileHash": "87ec7c9d",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Map": {
+      "src": "../../node_modules/@mui/icons-material/esm/Map.js",
+      "file": "@mui_icons-material_Map.js",
+      "fileHash": "fb6c0ad2",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Collections": {
+      "src": "../../node_modules/@mui/icons-material/esm/Collections.js",
+      "file": "@mui_icons-material_Collections.js",
+      "fileHash": "06690bce",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Museum": {
+      "src": "../../node_modules/@mui/icons-material/esm/Museum.js",
+      "file": "@mui_icons-material_Museum.js",
+      "fileHash": "b0df6b40",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Favorite": {
+      "src": "../../node_modules/@mui/icons-material/esm/Favorite.js",
+      "file": "@mui_icons-material_Favorite.js",
+      "fileHash": "9d390518",
+      "needsInterop": false
+    },
+    "@mui/icons-material/CardGiftcard": {
+      "src": "../../node_modules/@mui/icons-material/esm/CardGiftcard.js",
+      "file": "@mui_icons-material_CardGiftcard.js",
+      "fileHash": "c59258de",
+      "needsInterop": false
+    },
+    "@mui/icons-material/History": {
+      "src": "../../node_modules/@mui/icons-material/esm/History.js",
+      "file": "@mui_icons-material_History.js",
+      "fileHash": "1cda9f33",
+      "needsInterop": false
+    },
+    "@mui/icons-material/SwapHoriz": {
+      "src": "../../node_modules/@mui/icons-material/esm/SwapHoriz.js",
+      "file": "@mui_icons-material_SwapHoriz.js",
+      "fileHash": "863e4891",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Search": {
+      "src": "../../node_modules/@mui/icons-material/esm/Search.js",
+      "file": "@mui_icons-material_Search.js",
+      "fileHash": "45b63e8f",
+      "needsInterop": false
+    },
+    "@mui/icons-material/VolumeUp": {
+      "src": "../../node_modules/@mui/icons-material/esm/VolumeUp.js",
+      "file": "@mui_icons-material_VolumeUp.js",
+      "fileHash": "beef5873",
+      "needsInterop": false
+    },
+    "@mui/icons-material/VolumeOff": {
+      "src": "../../node_modules/@mui/icons-material/esm/VolumeOff.js",
+      "file": "@mui_icons-material_VolumeOff.js",
+      "fileHash": "e7401bc0",
+      "needsInterop": false
+    },
+    "@mui/icons-material/TrendingUp": {
+      "src": "../../node_modules/@mui/icons-material/esm/TrendingUp.js",
+      "file": "@mui_icons-material_TrendingUp.js",
+      "fileHash": "b4ff0060",
+      "needsInterop": false
+    },
+    "@mui/icons-material/AttachMoney": {
+      "src": "../../node_modules/@mui/icons-material/esm/AttachMoney.js",
+      "file": "@mui_icons-material_AttachMoney.js",
+      "fileHash": "790900dd",
+      "needsInterop": false
+    },
+    "@react-three/fiber": {
+      "src": "../../node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+      "file": "@react-three_fiber.js",
+      "fileHash": "c1376652",
+      "needsInterop": false
+    },
+    "@react-three/drei": {
+      "src": "../../node_modules/@react-three/drei/index.js",
+      "file": "@react-three_drei.js",
+      "fileHash": "6d960fe4",
+      "needsInterop": false
+    },
+    "@mui/icons-material/LocalFlorist": {
+      "src": "../../node_modules/@mui/icons-material/esm/LocalFlorist.js",
+      "file": "@mui_icons-material_LocalFlorist.js",
+      "fileHash": "4d12f780",
+      "needsInterop": false
+    },
+    "@mui/icons-material/WaterDrop": {
+      "src": "../../node_modules/@mui/icons-material/esm/WaterDrop.js",
+      "file": "@mui_icons-material_WaterDrop.js",
+      "fileHash": "74998957",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Delete": {
+      "src": "../../node_modules/@mui/icons-material/esm/Delete.js",
+      "file": "@mui_icons-material_Delete.js",
+      "fileHash": "4c4fd844",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Agriculture": {
+      "src": "../../node_modules/@mui/icons-material/esm/Agriculture.js",
+      "file": "@mui_icons-material_Agriculture.js",
+      "fileHash": "f0287547",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Share": {
+      "src": "../../node_modules/@mui/icons-material/esm/Share.js",
+      "file": "@mui_icons-material_Share.js",
+      "fileHash": "b95f7b8a",
+      "needsInterop": false
+    },
+    "@mui/icons-material/ShowChart": {
+      "src": "../../node_modules/@mui/icons-material/esm/ShowChart.js",
+      "file": "@mui_icons-material_ShowChart.js",
+      "fileHash": "d35517f2",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Timeline": {
+      "src": "../../node_modules/@mui/icons-material/esm/Timeline.js",
+      "file": "@mui_icons-material_Timeline.js",
+      "fileHash": "2a5eedb5",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Notifications": {
+      "src": "../../node_modules/@mui/icons-material/esm/Notifications.js",
+      "file": "@mui_icons-material_Notifications.js",
+      "fileHash": "eaba7fdd",
+      "needsInterop": false
+    },
+    "react-chartjs-2": {
+      "src": "../../node_modules/react-chartjs-2/dist/index.js",
+      "file": "react-chartjs-2.js",
+      "fileHash": "4a83a483",
+      "needsInterop": false
+    },
+    "chart.js": {
+      "src": "../../node_modules/chart.js/dist/chart.js",
+      "file": "chart__js.js",
+      "fileHash": "2cb02ebc",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-ANAUZJWK": {
+      "file": "chunk-ANAUZJWK.js"
+    },
+    "hls-AAGQ45T2": {
+      "file": "hls-AAGQ45T2.js"
+    },
+    "vision_bundle-NVRH4MT4": {
+      "file": "vision_bundle-NVRH4MT4.js"
+    },
+    "chunk-T2F7LD4Q": {
+      "file": "chunk-T2F7LD4Q.js"
+    },
+    "chunk-IBKMG2A2": {
+      "file": "chunk-IBKMG2A2.js"
+    },
+    "chunk-R6P3EKOW": {
+      "file": "chunk-R6P3EKOW.js"
+    },
+    "chunk-JUWM2LYA": {
+      "file": "chunk-JUWM2LYA.js"
+    },
+    "chunk-JBXJRJ63": {
+      "file": "chunk-JBXJRJ63.js"
+    },
+    "chunk-C6WWHQR7": {
+      "file": "chunk-C6WWHQR7.js"
+    },
+    "chunk-2THJIGO7": {
+      "file": "chunk-2THJIGO7.js"
+    },
+    "chunk-W6757QPY": {
+      "file": "chunk-W6757QPY.js"
+    },
+    "chunk-PBWE3PK5": {
+      "file": "chunk-PBWE3PK5.js"
+    },
+    "chunk-6H6IX42F": {
+      "file": "chunk-6H6IX42F.js"
+    },
+    "chunk-W4EHDCLL": {
+      "file": "chunk-W4EHDCLL.js"
+    },
+    "chunk-EWTE5DHJ": {
+      "file": "chunk-EWTE5DHJ.js"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "nookpedia-companion",
+  "version": "1.0.0",
+  "description": "Animal Crossing companion app with island management, villager tracking, and collection features",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^6.4.2",
+    "@mui/material": "^5.14.10",
+    "@react-three/drei": "^9.121.4",
+    "@react-three/fiber": "^8.17.14",
+    "axios": "^1.5.0",
+    "chart.js": "^4.4.7",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.4",
+    "vite": "^4.4.9"
+  }
+}
